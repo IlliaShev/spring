@@ -1,4 +1,4 @@
-package ua.shevchyk.spring_intro.spring_intro;
+package ua.shevchyk.spring_intro;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

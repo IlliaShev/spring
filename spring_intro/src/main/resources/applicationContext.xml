@@ -9,10 +9,10 @@
     <context:property-placeholder location="classpath:application.properties"/>
 
     <bean id="cat"
-          class="ua.shevchyk.spring_intro.spring_intro.Cat">
+          class="ua.shevchyk.spring_intro.Cat">
     </bean>
 
-    <bean id="person" class="ua.shevchyk.spring_intro.spring_intro.Person">
+    <bean id="person" class="ua.shevchyk.spring_intro.Person">
 
 <!--        <constructor-arg ref="cat"/>-->
 <!--        <constructor-arg value="12"/>-->

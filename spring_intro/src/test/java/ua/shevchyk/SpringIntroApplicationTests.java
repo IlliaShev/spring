@@ -1,4 +1,4 @@
-package ua.shevchyk.spring_intro;
+package ua.shevchyk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

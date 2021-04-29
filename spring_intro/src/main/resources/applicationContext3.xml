@@ -7,7 +7,7 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <context:component-scan base-package="ua.shevchyk.spring_intro.spring_intro"/>
+    <context:component-scan base-package="ua.shevchyk.spring_intro"/>
     <context:property-placeholder location="classpath:application.properties"/>
 
 
