@@ -14,7 +14,7 @@ public class EmployeeGlobalExceptionHandler {
         data.setInfo(e.getMessage());
         return new ResponseEntity<>(data, HttpStatus.NOT_FOUND);
 
-    }
+}
 
     @ExceptionHandler
     public ResponseEntity<EmployeeIncorrectID> handleException(Exception e){
