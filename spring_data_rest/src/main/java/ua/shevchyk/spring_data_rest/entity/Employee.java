@@ -1,4 +1,4 @@
-♦package ua.shevchyk.spring_data_rest.entity;
+package ua.shevchyk.spring_data_rest.entity;
 
 import javax.persistence.*;
 
