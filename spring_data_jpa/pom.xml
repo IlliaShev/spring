@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ua.shevchyk</groupId>
-    <artifactId>spring_data_rest</artifactId>
+    <artifactId>spring_data_jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_data_rest</name>
+    <name>spring_data_jpa</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
@@ -24,11 +24,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-rest</artifactId>
         </dependency>
 
         <dependency>
